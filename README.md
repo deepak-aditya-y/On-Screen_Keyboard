@@ -28,8 +28,6 @@ Here’s an example of the on-screen keyboard in action:
 ![image](https://github.com/user-attachments/assets/a0636a31-f7bb-40e2-8d82-7a148735c92b)
 
 
-> Replace `path/to/working_image.png` with the actual path to your working image.
-
 ---
 
 This project demonstrates the capabilities of using computer vision for interactive input methods. Feel free to add more details or modify the structure as needed.
